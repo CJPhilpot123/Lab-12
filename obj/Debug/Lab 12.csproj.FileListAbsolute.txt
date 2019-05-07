@@ -1,0 +1,7 @@
+C:\Users\EpikF\source\repos\Lab 12\Lab 12\bin\Debug\Lab 12.exe.config
+C:\Users\EpikF\source\repos\Lab 12\Lab 12\bin\Debug\Lab 12.exe
+C:\Users\EpikF\source\repos\Lab 12\Lab 12\bin\Debug\Lab 12.pdb
+C:\Users\EpikF\source\repos\Lab 12\Lab 12\obj\Debug\Lab 12.csprojAssemblyReference.cache
+C:\Users\EpikF\source\repos\Lab 12\Lab 12\obj\Debug\Lab 12.csproj.CoreCompileInputs.cache
+C:\Users\EpikF\source\repos\Lab 12\Lab 12\obj\Debug\Lab 12.exe
+C:\Users\EpikF\source\repos\Lab 12\Lab 12\obj\Debug\Lab 12.pdb
